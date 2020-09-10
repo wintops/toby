@@ -1,0 +1,1 @@
+v8_base_without_compiler.lib;IPHLPAPI.LIB ;PSAPI.LIB;WINMM.LIB;dbghelp.lib;shlwapi.lib;SHELL32.LIB;USER32.LIB;USERENV.LIB;WS2_32.LIB;V8_LIBPLATFORM.LIB;ICUI18N.LIB;ZLIB.LIB;CARES.LIB;LIBUV.LIB;V8_LIBBASE.LIB;ICUUCX.LIB;ICUDATA.LIB;V8_SNAPSHOT.LIB;v8_zlib.lib;v8_init.lib;v8_initializers.lib;v8_compiler.lib;v8_libsampler.lib;
